@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<html lang="en" >
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Crossing Fonds - Mirador Test</title>
+
+    <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.0.0/openseadragon.min.js"></script>
+
+
+  </head>
+
+  <body>
+
+    <div id="my-mirador"></div>
+
+
+  </body>
+
+  <script type='module'>
+
+    // var miradorInstance = Mirador.viewer({
+
+    //     id: 'my-mirador',
+    //     workspaceControlPanel: {
+    //       enabled: true,
+    //     },
+    //     window: {
+    //       allowClose: true,
+    //     },
+    //     osdConfig: {
+    //       useCanvas: false, // disable the useCanvas option for OpenSeadragon
+    //     },
+
+    // });
+
+    var miradorInstance = Mirador.viewer({
+       id: 'my-mirador',
+       theme: {
+         transitions: window.location.port === '4488' ?  { create: () => 'none' } : {},
+       },
+       catalog: [
+         { manifestId: 'https://crossingfonds.github.io/assets/JSON/box26.json' },
+         { manifestId: 'https://crossingfonds.github.io/assets/JSON/box4.json' },
+         { manifestId: 'https://crossingfonds.github.io/assets/JSON/IVC.json' },
+         { manifestId: 'https://crossingfonds.github.io/assets/JSON/ruthBullock.json' },
+         { manifestId: 'https://crossingfonds.github.io/assets/JSON/SD-01-01-0015.json' },
+         { manifestId: 'https://crossingfonds.github.io/assets/JSON/SD-01-01-006.json' },
+         { manifestId: 'https://crossingfonds.github.io/assets/JSON/SD-01-01-0511.json' },
+         { manifestId: 'https://crossingfonds.github.io/assets/JSON/SDOtoSlides.json' },
+         { manifestId: 'https://crossingfonds.github.io/assets/JSON/SD_WLHP_513_02.json' },
+         { manifestId: 'https://crossingfonds.github.io/assets/JSON/sd_wlhp_149_02.json' },
+         { manifestId: 'https://crossingfonds.github.io/assets/JSON/SDA_IWA_030.json' },
+         { manifestId: 'https://crossingfonds.github.io/assets/JSON/tenDollar.json' },
+         { manifestId: 'https://crossingfonds.github.io/assets/JSON/TheWorkingImage.json' },
+         { manifestId: 'https://crossingfonds.github.io/assets/JSON/womanUnionHistory.json' },
+       ]
+     });
+
+  </script>
+
+</html>
