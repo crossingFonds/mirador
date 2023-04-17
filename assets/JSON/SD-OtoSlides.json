@@ -36,7 +36,7 @@
               "resource": {
                 "@id": "https://crossingFonds.github.io/assets/Photos/SDOtoSlides109-148.tif",
                 "@type": "dctypes:Image",
-                "format": "image/tif",
+                "format": "image/jpeg",
                 "height": 1500,
                 "width": 1000
               },
@@ -60,7 +60,7 @@
               "resource": {
                 "@id": "https://crossingFonds.github.io/assets/Photos/SDOtoSlides149-162.tif",
                 "@type": "dctypes:Image",
-                "format": "image/tif",
+                "format": "image/jpeg",
                 "height": 1500,
                 "width": 1000
               },

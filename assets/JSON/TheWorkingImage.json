@@ -69,32 +69,6 @@
           ]
         },
 
-
-        {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
-          "@type": "sc:Canvas",
-          "label": "Page 3",
-          "height": 1500,
-          "width": 1000,
-
-         
-          "images": [
-            {
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://crossingFonds.github.io/assets/Photos/SD-01-01-0066.jpg",
-                "@type": "dctypes:Image",
-                "format": "image/jpeg",
-                "height": 1500,
-                "width": 1000
-              },
-              "on": "http://example.org/iiif/book1/canvas/p3"
-            }
-          ]
-        }
-
-
       ]
     }
   ]
