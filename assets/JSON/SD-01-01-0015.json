@@ -68,8 +68,6 @@
             }
           ]
         },
-
-
         {
           "@id": "http://example.org/iiif/book1/canvas/p3",
           "@type": "sc:Canvas",
@@ -95,7 +93,7 @@
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p4",
           "@type": "sc:Canvas",
           "label": "Page 4",
           "height": 1500,
@@ -113,13 +111,12 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p4"
             }
           ]
         },
-
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p5",
           "@type": "sc:Canvas",
           "label": "Page 5",
           "height": 1500,
@@ -137,17 +134,18 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p5"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p6",
           "@type": "sc:Canvas",
           "label": "Page 6",
           "height": 1500,
           "width": 1000,
+
          
           "images": [
             {
@@ -160,13 +158,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p6"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p7",
           "@type": "sc:Canvas",
           "label": "Page 7",
           "height": 1500,
@@ -184,13 +182,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p7"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p8",
           "@type": "sc:Canvas",
           "label": "Page 8",
           "height": 1500,
@@ -208,13 +206,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p8"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p9",
           "@type": "sc:Canvas",
           "label": "Page 9",
           "height": 1500,
@@ -232,13 +230,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p9"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p10",
           "@type": "sc:Canvas",
           "label": "Page 10",
           "height": 1500,
@@ -256,13 +254,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p10"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p11",
           "@type": "sc:Canvas",
           "label": "Page 11",
           "height": 1500,
@@ -280,13 +278,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p11"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p12",
           "@type": "sc:Canvas",
           "label": "Page 12",
           "height": 1500,
@@ -304,13 +302,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p12"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p13",
           "@type": "sc:Canvas",
           "label": "Page 13",
           "height": 1500,
@@ -328,13 +326,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p13"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p14",
           "@type": "sc:Canvas",
           "label": "Page 14",
           "height": 1500,
@@ -352,13 +350,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p14"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p15",
           "@type": "sc:Canvas",
           "label": "Page 15",
           "height": 1500,
@@ -376,13 +374,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p15"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p16",
           "@type": "sc:Canvas",
           "label": "Page 16",
           "height": 1500,
@@ -400,14 +398,14 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p16"
             }
           ]
         },
 
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p17",
           "@type": "sc:Canvas",
           "label": "Page 17",
           "height": 1500,
@@ -425,13 +423,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p17"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p18",
           "@type": "sc:Canvas",
           "label": "Page 18",
           "height": 1500,
@@ -449,13 +447,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p18"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p19",
           "@type": "sc:Canvas",
           "label": "Page 19",
           "height": 1500,
@@ -473,13 +471,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p19"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p20",
           "@type": "sc:Canvas",
           "label": "Page 20",
           "height": 1500,
@@ -497,13 +495,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p20"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p21",
           "@type": "sc:Canvas",
           "label": "Page 21",
           "height": 1500,
@@ -521,13 +519,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p21"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p22",
           "@type": "sc:Canvas",
           "label": "Page 22",
           "height": 1500,
@@ -545,13 +543,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p22"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p23",
           "@type": "sc:Canvas",
           "label": "Page 23",
           "height": 1500,
@@ -569,13 +567,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p23"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p24",
           "@type": "sc:Canvas",
           "label": "Page 24",
           "height": 1500,
@@ -593,15 +591,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p24"
             }
           ]
         },
 
-        ,
-
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p25",
           "@type": "sc:Canvas",
           "label": "Page 25",
           "height": 1500,
@@ -619,13 +615,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p25"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p26",
           "@type": "sc:Canvas",
           "label": "Page 26",
           "height": 1500,
@@ -643,13 +639,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p26"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p27",
           "@type": "sc:Canvas",
           "label": "Page 27",
           "height": 1500,
@@ -667,13 +663,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p27"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p28",
           "@type": "sc:Canvas",
           "label": "Page 28",
           "height": 1500,
@@ -691,13 +687,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p28"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p29",
           "@type": "sc:Canvas",
           "label": "Page 29",
           "height": 1500,
@@ -715,13 +711,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p29"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p30",
           "@type": "sc:Canvas",
           "label": "Page 30",
           "height": 1500,
@@ -739,13 +735,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p30"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p31",
           "@type": "sc:Canvas",
           "label": "Page 31",
           "height": 1500,
@@ -763,13 +759,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p31"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p32",
           "@type": "sc:Canvas",
           "label": "Page 32",
           "height": 1500,
@@ -787,13 +783,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p32"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p33",
           "@type": "sc:Canvas",
           "label": "Page 33",
           "height": 1500,
@@ -811,13 +807,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p33"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p34",
           "@type": "sc:Canvas",
           "label": "Page 34",
           "height": 1500,
@@ -835,13 +831,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p34"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p35",
           "@type": "sc:Canvas",
           "label": "Page 35",
           "height": 1500,
@@ -859,13 +855,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p35"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p36",
           "@type": "sc:Canvas",
           "label": "Page 36",
           "height": 1500,
@@ -883,13 +879,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p36"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p37",
           "@type": "sc:Canvas",
           "label": "Page 37",
           "height": 1500,
@@ -907,13 +903,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p37"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p38",
           "@type": "sc:Canvas",
           "label": "Page 38",
           "height": 1500,
@@ -931,13 +927,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p38"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p39",
           "@type": "sc:Canvas",
           "label": "Page 39",
           "height": 1500,
@@ -955,13 +951,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p39"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p40",
           "@type": "sc:Canvas",
           "label": "Page 40",
           "height": 1500,
@@ -979,13 +975,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p40"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p41",
           "@type": "sc:Canvas",
           "label": "Page 41",
           "height": 1500,
@@ -1003,13 +999,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p41"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p42",
           "@type": "sc:Canvas",
           "label": "Page 42",
           "height": 1500,
@@ -1027,13 +1023,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p42"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p43",
           "@type": "sc:Canvas",
           "label": "Page 43",
           "height": 1500,
@@ -1051,13 +1047,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p43"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p44",
           "@type": "sc:Canvas",
           "label": "Page 44",
           "height": 1500,
@@ -1075,13 +1071,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p44"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p45",
           "@type": "sc:Canvas",
           "label": "Page 45",
           "height": 1500,
@@ -1099,13 +1095,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p45"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p46",
           "@type": "sc:Canvas",
           "label": "Page 46",
           "height": 1500,
@@ -1123,13 +1119,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p46"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p47",
           "@type": "sc:Canvas",
           "label": "Page 47",
           "height": 1500,
@@ -1147,13 +1143,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p47"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p48",
           "@type": "sc:Canvas",
           "label": "Page 48",
           "height": 1500,
@@ -1171,13 +1167,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p48"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p49",
           "@type": "sc:Canvas",
           "label": "Page 49",
           "height": 1500,
@@ -1195,13 +1191,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p49"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p50",
           "@type": "sc:Canvas",
           "label": "Page 50",
           "height": 1500,
@@ -1219,13 +1215,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p50"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p51",
           "@type": "sc:Canvas",
           "label": "Page 51",
           "height": 1500,
@@ -1243,13 +1239,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p51"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p52",
           "@type": "sc:Canvas",
           "label": "Page 52",
           "height": 1500,
@@ -1267,13 +1263,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p52"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p53",
           "@type": "sc:Canvas",
           "label": "Page 53",
           "height": 1500,
@@ -1291,13 +1287,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p53"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p54",
           "@type": "sc:Canvas",
           "label": "Page 54",
           "height": 1500,
@@ -1315,13 +1311,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p54"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p55",
           "@type": "sc:Canvas",
           "label": "Page 55",
           "height": 1500,
@@ -1339,13 +1335,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p55"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p56",
           "@type": "sc:Canvas",
           "label": "Page 56",
           "height": 1500,
@@ -1363,13 +1359,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p56"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p57",
           "@type": "sc:Canvas",
           "label": "Page 57",
           "height": 1500,
@@ -1387,13 +1383,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p57"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p58",
           "@type": "sc:Canvas",
           "label": "Page 58",
           "height": 1500,
@@ -1411,13 +1407,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p58"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p59",
           "@type": "sc:Canvas",
           "label": "Page 59",
           "height": 1500,
@@ -1435,13 +1431,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p59"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p60",
           "@type": "sc:Canvas",
           "label": "Page 60",
           "height": 1500,
@@ -1459,13 +1455,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p60"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p61",
           "@type": "sc:Canvas",
           "label": "Page 61",
           "height": 1500,
@@ -1483,13 +1479,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p61"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p62",
           "@type": "sc:Canvas",
           "label": "Page 62",
           "height": 1500,
@@ -1507,13 +1503,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p62"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p63",
           "@type": "sc:Canvas",
           "label": "Page 63",
           "height": 1500,
@@ -1531,13 +1527,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p63"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p64",
           "@type": "sc:Canvas",
           "label": "Page 64",
           "height": 1500,
@@ -1555,13 +1551,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p64"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p65",
           "@type": "sc:Canvas",
           "label": "Page 65",
           "height": 1500,
@@ -1579,13 +1575,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p65"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p66",
           "@type": "sc:Canvas",
           "label": "Page 66",
           "height": 1500,
@@ -1603,14 +1599,14 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p66"
             }
           ]
         },
 
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p67",
           "@type": "sc:Canvas",
           "label": "Page 67",
           "height": 1500,
@@ -1628,13 +1624,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p67"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p68",
           "@type": "sc:Canvas",
           "label": "Page 68",
           "height": 1500,
@@ -1652,13 +1648,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p68"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p69",
           "@type": "sc:Canvas",
           "label": "Page 69",
           "height": 1500,
@@ -1676,13 +1672,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p69"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p70",
           "@type": "sc:Canvas",
           "label": "Page 70",
           "height": 1500,
@@ -1700,13 +1696,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p70"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p71",
           "@type": "sc:Canvas",
           "label": "Page 71",
           "height": 1500,
@@ -1724,13 +1720,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p71"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p72",
           "@type": "sc:Canvas",
           "label": "Page 72",
           "height": 1500,
@@ -1748,13 +1744,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p72"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p73",
           "@type": "sc:Canvas",
           "label": "Page 73",
           "height": 1500,
@@ -1772,13 +1768,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p73"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p74",
           "@type": "sc:Canvas",
           "label": "Page 74",
           "height": 1500,
@@ -1796,13 +1792,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p74"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p75",
           "@type": "sc:Canvas",
           "label": "Page 75",
           "height": 1500,
@@ -1820,13 +1816,13 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p75"
             }
           ]
         },
 
         {
-          "@id": "http://example.org/iiif/book1/canvas/p3",
+          "@id": "http://example.org/iiif/book1/canvas/p76",
           "@type": "sc:Canvas",
           "label": "Page 76",
           "height": 1500,
@@ -1844,12 +1840,10 @@
                 "height": 1500,
                 "width": 1000
               },
-              "on": "http://example.org/iiif/book1/canvas/p3"
+              "on": "http://example.org/iiif/book1/canvas/p76"
             }
           ]
         }
-
-
 
       ]
     }
